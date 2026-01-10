@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* Define your custom Qatar colors directly in CSS now! */
+@theme {
+  --color-qatar: #8A1538;
+  --color-sand: #fdf6e3;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #8A1538;
+  border-radius: 10px;
+}
