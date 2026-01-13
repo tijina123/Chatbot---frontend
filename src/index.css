@@ -16,3 +16,8 @@
   background: #8A1538;
   border-radius: 10px;
 }
+/* Add this if the bot text looks too small or weird */
+.prose {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
